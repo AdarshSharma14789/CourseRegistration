@@ -1,2 +1,2 @@
 # CourseRegistration
-college course registration system
+College course registration system
